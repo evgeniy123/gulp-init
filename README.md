@@ -1,3 +1,6 @@
+##  Choose a node version  
+nvm i 14.20.0
+
 ## Run
 
 * sudo npm i -g bower
@@ -10,5 +13,7 @@
 
 npm i npm-check-updates
 
+##  Launch a watch mode of gulp
+gulp watch
 
 
